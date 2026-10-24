@@ -48,7 +48,7 @@ RegisterNumber: 26007521
 ```
 
 ## Output:
-<img width="1080" height="1590" alt="ex 6" src="https://github.com/user-attachments/assets/c83cb953-6be4-4dd8-8a70-21f62ac06c8c" />
+<img width="1352" height="866" alt="ex 6" src="https://github.com/user-attachments/assets/7000c039-31f6-432a-bec5-c7d4a6b0a7f2" />
 
 ## Result:
 Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming.
